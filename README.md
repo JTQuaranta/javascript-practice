@@ -1,6 +1,8 @@
 # javascript-practice
 
--galaga inspired assingment. cred to Adam Carter for icons and help with code
+-galaga inspired assingment
+
+-credit to Adam Carter for icons and help with code
 
 -just run the html
 
